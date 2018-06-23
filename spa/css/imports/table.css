@@ -1,0 +1,9 @@
+table {
+    border: 1px solid darkblue;
+    border-radius: 8px;
+    width: 100%;
+}
+table th, td {
+    border: 1px solid darkblue;
+    padding: 8px;
+}

@@ -1,0 +1,23 @@
+.arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid grey;
+    opacity: 0.2;
+    position: fixed;
+    bottom: 40px;
+    right: 0;
+}
+.arrow-up {
+    display: none;
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid grey;
+    opacity: 0.2;
+    position: fixed;
+    bottom: 65px;
+    right: 0;
+}
